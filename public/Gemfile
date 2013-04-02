@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+# Framework
+gem 'sinatra'
+
+# Views
+gem 'slim'
+gem 'sass'
